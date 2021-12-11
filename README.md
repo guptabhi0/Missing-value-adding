@@ -1,0 +1,3 @@
+# Missing-value-adding
+
+By the understanding data missing value of the age can be filled rather than just putting the average value...
